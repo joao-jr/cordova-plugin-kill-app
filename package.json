@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-killapp",
+  "version": "0.0.1",
+  "description": "Cordova plugin for exiting the app programmatically for Android.",
+  "homepage": "https://github.com/cakuki/cordova-plugin-exit#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "exit",
+    "terminate",
+    "quit"
+  ],
+  "license": "MIT",
+  "cordova": {
+    "id": "cordova-plugin-killapp",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "Joao Teixeira",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-jr/cordova-plugin-kill-app"
+  }
+}
